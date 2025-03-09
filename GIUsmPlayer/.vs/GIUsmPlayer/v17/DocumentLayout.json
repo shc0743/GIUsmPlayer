@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\software\\Program\\source\\git\\github.com\\shc0743\\GIUsmPlayer\\GIUsmPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960C53DA-5985-487A-B9CD-C9DE0DB4CCB7}|GIUsmPlayer\\GIUsmPlayer.vcxproj|D:\\software\\Program\\source\\git\\github.com\\shc0743\\GIUsmPlayer\\GIUsmPlayer\\GIUsmPlayer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{960C53DA-5985-487A-B9CD-C9DE0DB4CCB7}|GIUsmPlayer\\GIUsmPlayer.vcxproj|solutionrelative:GIUsmPlayer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\software\\Program\\source\\git\\github.com\\shc0743\\GIUsmPlayer\\GIUsmPlayer\\GIUsmPlayer\\main.cpp",
+              "RelativeDocumentMoniker": "GIUsmPlayer\\main.cpp",
+              "ToolTip": "D:\\software\\Program\\source\\git\\github.com\\shc0743\\GIUsmPlayer\\GIUsmPlayer\\GIUsmPlayer\\main.cpp",
+              "RelativeToolTip": "GIUsmPlayer\\main.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-03T14:58:22.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
